@@ -1,0 +1,31 @@
+
+
+
+$background: green;
+
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: $background;
+    #center {
+        width: 40rem;
+        margin: 3rem auto;
+        background-color: #ccc;
+        border-radius: .25rem;
+        overflow: hidden;
+        padding: .5rem;
+        .note {
+            color: #666;
+            text-align: center
+        }
+        button {
+            margin-left: 45%;
+        }
+    }
+}
+
+.bear {
+    color: #fff;
+}
