@@ -3,4 +3,5 @@
 ## steps
 * npm install
 * npm start
-* webpack (to build)
+* npm install webpack -g 
+* webpack
